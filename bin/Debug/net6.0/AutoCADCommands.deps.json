@@ -1,0 +1,132 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AutoCADCommands/1.0.0": {
+        "dependencies": {
+          "accoremgd": "24.3.0.0",
+          "AcDbMgd": "24.3.0.0",
+          "AcMgd": "24.3.0.0"
+        },
+        "runtime": {
+          "AutoCADCommands.dll": {}
+        }
+      },
+      "accoremgd/24.3.0.0": {
+        "runtime": {
+          "accoremgd.dll": {
+            "assemblyVersion": "24.3.0.0",
+            "fileVersion": "24.3.61.0"
+          }
+        }
+      },
+      "AcDbMgd/24.3.0.0": {
+        "runtime": {
+          "AcDbMgd.dll": {
+            "assemblyVersion": "24.3.0.0",
+            "fileVersion": "24.3.61.0"
+          }
+        }
+      },
+      "AcMgd/24.3.0.0": {
+        "runtime": {
+          "AcMgd.dll": {
+            "assemblyVersion": "24.3.0.0",
+            "fileVersion": "24.3.61.0"
+          }
+        }
+      },
+      "AdUIMgd/24.3.0.0": {
+        "runtime": {
+          "AdUIMgd.dll": {
+            "assemblyVersion": "24.3.0.0",
+            "fileVersion": "24.3.61.0"
+          }
+        }
+      },
+      "AdWindows/5.0.1.2": {
+        "runtime": {
+          "AdWindows.dll": {
+            "assemblyVersion": "5.0.1.2",
+            "fileVersion": "5.0.1.2"
+          }
+        }
+      },
+      "AcTcMgd/24.3.0.0": {
+        "runtime": {
+          "AcTcMgd.dll": {
+            "assemblyVersion": "24.3.0.0",
+            "fileVersion": "24.3.61.0"
+          }
+        }
+      },
+      "AdUiPalettes/24.3.0.0": {
+        "runtime": {
+          "AdUiPalettes.dll": {
+            "assemblyVersion": "24.3.0.0",
+            "fileVersion": "24.3.61.0"
+          }
+        }
+      },
+      "AcCui/24.3.0.0": {
+        "runtime": {
+          "AcCui.dll": {
+            "assemblyVersion": "24.3.0.0",
+            "fileVersion": "24.3.61.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoCADCommands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "accoremgd/24.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcDbMgd/24.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcMgd/24.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdUIMgd/24.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdWindows/5.0.1.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcTcMgd/24.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdUiPalettes/24.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcCui/24.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
